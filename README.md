@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moshe :)
 - 👀 I’m interested in frontend, and some nodejs projects
-- 🌱 I’m currently learning Py and React
+- 🌱 I’m currently using Vue & Angular
 - 💞️ I’m looking to collaborate on samll focused utils that help 
 - 📫 Reach me via e-mail: sheinmoshe@gmail.com
 
